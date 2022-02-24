@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit Test for Card Should match the snapshot 1`] = `
+<div
+  class="sc-bdvvtL sOPvX"
+  data-testid="card-container"
+>
+  <div
+    class="sc-gsDKAQ"
+  >
+    <div
+      class="sc-dkPtRN djYpFh"
+    >
+      <img
+        alt="test"
+        src="test.jpeg"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-hKwDye hrafIl"
+  >
+    <div>
+      <div
+        class="sc-eCImPb ifQwid"
+      >
+        test
+      </div>
+      <div
+        class="sc-jRQBWg NnOMb"
+      >
+        test
+      </div>
+    </div>
+    <div
+      class="sc-gKclnd gGmwbb"
+    >
+      <div
+        class="sc-iCfMLu coQalB"
+      >
+        Click for More
+      </div>
+      <div>
+         Author: 
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Unit Test for CommentCard Should match the snapshot 1`] = `
+<div
+  class="sc-bdvvtL hgexdy"
+  data-testid="comment-card-container"
+>
+  test-12
+</div>
+`;

@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit Test for Deatil Should match the snapshot 1`] = `
+<div
+  class="sc-gsDKAQ jXHeZe"
+  data-testid="detail-container"
+>
+  <div
+    class="sc-dkPtRN jPDOd"
+  />
+  <div
+    class="sc-hKwDye ZSmwH"
+  >
+    Back to Home
+  </div>
+  <div
+    class="sc-eCImPb XFQCR"
+  >
+    <img />
+  </div>
+  <div
+    class="sc-jRQBWg cslRna"
+  />
+  <div
+    class="sc-gKclnd dnPZCE"
+  >
+    <div
+      class="sc-iCfMLu dhDING"
+    >
+      Comments
+    </div>
+    <div
+      class="sc-jrQzAO flCDap"
+    >
+      <input
+        class="sc-furwcr kptDCW"
+        value=""
+      />
+      <div
+        class="sc-kDTinF ixJPsn"
+      >
+        Submit
+      </div>
+    </div>
+    <div
+      class="sc-pVTFL fHWpSP"
+    />
+  </div>
+</div>
+`;
+
+exports[`Unit Test for Home Should match the snapshot 1`] = `
+<div
+  class="sc-furwcr jThAww"
+  data-testid="home-container"
+>
+  <div
+    class="sc-pVTFL eRjRBi"
+  >
+    <div
+      class="sc-kDTinF yYeNI"
+    >
+      DigitSense Exam
+    </div>
+    <div
+      class="sc-iqseJM bqyZiN"
+    >
+      New Post
+      <div
+        class="sc-crHmcD bVzDQc fa fa-plus icon"
+      />
+    </div>
+    <div
+      class="sc-kDTinF yYeNI"
+    >
+      Post
+    </div>
+    <div
+      class="sc-jrQzAO hZhYgW"
+    >
+      <div
+        class="sc-egiyK iAnnCa"
+      />
+    </div>
+  </div>
+</div>
+`;

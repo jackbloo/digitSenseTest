@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit Test for Card Should match the snapshot 1`] = `
+<div
+  class="sc-bdvvtL dHBknt"
+  data-testid="new-post-container"
+>
+  <div
+    class="sc-gsDKAQ cBbBvl"
+  >
+    New Post
+  </div>
+  <div
+    class="sc-furwcr bhzqyp"
+  >
+    Back to Home
+  </div>
+  <div
+    class="sc-dkPtRN jJpDfM"
+  >
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Title
+      </div>
+      <input
+        class="sc-eCImPb dAIa-DJ"
+        placeholder="Insert Title"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Content
+      </div>
+      <textarea
+        class="sc-jRQBWg ilgbxP"
+        placeholder="Insert Content"
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Author
+      </div>
+      <input
+        class="sc-eCImPb dAIa-DJ"
+        placeholder="Insert Author"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-iCfMLu cTEiGp"
+      >
+        Submit
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Unit Test for NewPost Should match the snapshot 1`] = `
+<div
+  class="sc-bdvvtL dHBknt"
+  data-testid="new-post-container"
+>
+  <div
+    class="sc-gsDKAQ cBbBvl"
+  >
+    New Post
+  </div>
+  <div
+    class="sc-furwcr bhzqyp"
+  >
+    Back to Home
+  </div>
+  <div
+    class="sc-dkPtRN jJpDfM"
+  >
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Title
+      </div>
+      <input
+        class="sc-eCImPb dAIa-DJ"
+        placeholder="Insert Title"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Content
+      </div>
+      <textarea
+        class="sc-jRQBWg ilgbxP"
+        placeholder="Insert Content"
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-gKclnd eXedrW"
+      >
+        Author
+      </div>
+      <input
+        class="sc-eCImPb dAIa-DJ"
+        placeholder="Insert Author"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-hKwDye hJIobn"
+    >
+      <div
+        class="sc-iCfMLu cTEiGp"
+      >
+        Submit
+      </div>
+    </div>
+  </div>
+</div>
+`;
