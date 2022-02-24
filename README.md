@@ -11,3 +11,7 @@ To run the client
 To run the server
 
     json-server --watch db.json --port 3001
+
+To run test
+
+    npm run test
