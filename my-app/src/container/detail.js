@@ -73,6 +73,7 @@ React.useEffect(() => {
     return (
       <Container data-testid="detail-container">
           <Title>{detail.title}</Title>
+          <AuthorTitle>by {detail.author}</AuthorTitle>
           <HomeButton onClick={() => navigateHome()}>Back to Home</HomeButton>
           <ImageContainer>
                   <img src={detail.image} alt={detail.content}/>
@@ -171,6 +172,8 @@ padding-right: 5px;
 padding-left:5px;
 margin-left: 10px;
 `
-
+const AuthorTitle = styled.div`
+margin-bottom: 5px;
+`
 
 export default Detail;
